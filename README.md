@@ -17,4 +17,4 @@ PS: Code in the editor gets automatically saved (but not committed) before you r
 PS: Do not forget to commit the code bfore you leave the editor, to ensure all your changes are saved permenantly 
 
 download jdbcconnector => type connector in google -> open the first one mysql connector j -> download the jar file(platform independent)
-open projectstructure -> libraries -> add mysqlconnector jar file 
+open projectstructure -> libraries -> java -> add mysqlconnector jar file 
